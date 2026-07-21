@@ -49,6 +49,10 @@ Follow these instructions to get a local copy up and running on your Windows mac
 1. **Clone the repository:**
    ```cmd
    git clone [https://github.com/IvanJaeMandawee-UCM/File-Manager.git](https://github.com/IvanJaeMandawee-UCM/File-Manager.git)
+
+1.1   **Application/File Manager.exe/<view raw**
+*   *To Download the application*
+*   *Doesn't need a setup installation*
    
 2. **Navigate into the project directory:**
 

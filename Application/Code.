@@ -555,5 +555,5 @@ public class File_Management_Application extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTable jTable1;
     private javax.swing.JMenuItem open_file;
-    // End of variables declaration                   
+                 
 }

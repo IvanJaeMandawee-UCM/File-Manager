@@ -56,9 +56,9 @@ Follow these instructions to get a local copy up and running on your Windows mac
    
 2. **Navigate into the project directory:**
 
-*   *DOS
-*   *cd File-Manager
-*   *Run the Project:
+*   *DOS*
+*   *cd File-Manager*
+*   *Run the Project:*
 
 3. **Open the folder in your preferred IDE (e.g., NetBeans, IntelliJ, or Eclipse).**
 

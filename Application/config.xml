@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Asus\OneDrive\文件\NetBeansProjects\File_Manager\dist\File_Manager.jar</jar>
+  <outfile>C:\Users\Asus\OneDrive\Desktop\here\Manager.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\JavaBuilds\File_Logo-ezremove.ico</icon>
+  <classPath>
+    <mainClass>file_manager.File_Management_Application</mainClass>
+    <cp>File_Manager.jar</cp>
+  </classPath>
+  <jre>
+    <path>jdk-24</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>true</requires64Bit>
+    <minVersion>24</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>

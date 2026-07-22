@@ -44,6 +44,8 @@ Follow these instructions to get a local copy up and running on your Windows mac
 *   **JavaFX SDK** configured on your local system or within your IDE.
 *   **Git** installed.
 
+---  
+
 ### Installation & Run Instructions
 
 1. **Clone the repository:**
